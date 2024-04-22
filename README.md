@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Angeladadd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Angeladadd&theme=buefy&show_icons=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angeladadd&theme=buefy&show_icons=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeladadd&hide=tex,css&layout=compact" />
 </a>
