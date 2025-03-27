@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Angeladadd">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angeladadd&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeladadd&hide=tex,css&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeladadd&hide=tex,css,C%23,C,ShaderLab&layout=compact" />
 </a>
