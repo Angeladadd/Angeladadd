@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; B.Eng. in Computer Science at Shanghai Jiao Tong University.
-- 💼 &nbsp; Working as a Software Development Engineer at Amazon.com.
+- 💼 &nbsp; Worked as a Software Development Engineer at Amazon.com and ByteDance.
+- 🎓 &nbsp; Pursuing MSc in Artificial Intelligence and Data Engineering at University College London.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
