@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🧑‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; B.Eng. in Computer Science at Shanghai Jiao Tong University.
 - 💼 &nbsp; Worked as a Software Development Engineer at Amazon.com and ByteDance.
